@@ -1,0 +1,55 @@
+body{
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #567300;
+    color: #ffffff;
+}
+header :link, header :visited, header :hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+nav{
+    padding: 0;
+    font-weight: bold;
+    font-size: 120%;
+    text-align: left;
+    background-color: #385000;
+    padding-left: 1em;
+}
+nav :link, nav :visited, nav :hover{
+    color: #ffffff;
+}
+h1{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', serif;
+    letter-spacing: 0.25em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+}
+main{
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    display: block;
+    background-color: #FFFFFF;
+    overflow: auto;
+}
+h2{
+    color: #385000;
+    font-family: Georgia, 'Times New Roman', serif;
+    text-shadow: 1px 1px #aaaaaa;
+}
+footer{
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', serif;
+    padding: 2em;
+    background-color: #FFFFFF;
+}
